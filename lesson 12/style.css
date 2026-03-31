@@ -25,3 +25,21 @@ img{
 p{
     color: blue;
 }
+
+a{
+    color: red;
+}
+
+a:link{
+    color: blue;
+}
+a:visited{
+    color: purple;
+}
+a:hover{
+    color: hotpink;
+}
+
+a:active{
+    color: green;
+}
